@@ -1,0 +1,21 @@
+{
+  "name": "arrow_bot",
+  "version": "1.0.0",
+  "description": "discord bot for we will se what",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "biurko-pieklo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "eslint": "^9.1.0"
+  }
+}
